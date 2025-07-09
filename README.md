@@ -16,8 +16,8 @@ This app was developed as a hands-on project during the course **"Construindo ap
   
 ## Screenshots
 
-![Header](Screenshots/header.png)
-![Scrolling](Screenshots/scrolling.png)
+<img src="Screenshots/header.png" width="200" style="margin-right: 20px;" />
+<img src="Screenshots/scrolling.png" width="200" />
 
 ## Requirements
 
