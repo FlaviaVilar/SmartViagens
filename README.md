@@ -29,13 +29,13 @@ This app was developed as a hands-on project during the course **"Construindo ap
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/iQuiz.git
+   git clone https://github.com/FlaviaVilar/SmartViagens
     ```
 
 2. Open the project in Xcode:
 
    ```bash 
-   open iQuiz.xcodeproj
+   open SmartViagens.xcodeproj
     ```
 
 3. Build and run the project on the simulator or a physical device.
